@@ -12,6 +12,6 @@ You will need to have <a href="https://nodejs.org/">Node JS</a> installed on you
 
 After cloning the files, you will have to run `yarn` followed by `yarn start` in the CLI
 
-### 3. Add your own data
+### 3. install dependencies
 
-mpn install to install dependencies
+npm install 
